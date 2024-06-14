@@ -1,4 +1,17 @@
+# Seja Bem-vindo(a) ao meu perfil! 👋
 
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_clipboard-copy-element_dist_index_esm_js-node_modules_delegated-e-b37f7d-cb3d06ead51a.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_command-palette_items_help-item_ts-app_assets_modules_github_comman-48ad9d-cd4d1523cddf.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/command-palette-a99cf9e9f4ca.js"></script>
+Aqui estarei documentando projetos pessoais e muito mais! 😉
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUÁRIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUÁRIO&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+<br>
+
+### Para saber mais sobre mim, me siga nas redes abaixo!
+
+<div>
+  <a href="LINK_PARA_SEU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="LINK_PARA_SEU_EMAIL"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
