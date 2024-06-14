@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @ferrerolan
 - 👀 Estou interessado em novos desafios.
 - 🌱 Atualmente estou aprendendo Laravel e JavaScript.
-- 💞️ Estou buscando colaborar em criar projetos inovadores.
+- 💞️ Estou buscando aprender com meus mentores.
 - 📫 Como me encontrar: ferrerolan@icloud.com
 - ⚡ Curiosidade: Corre café nas minhas veias.
