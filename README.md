@@ -1,44 +1,85 @@
-<h1 align="center">👋 Seja bem-vindo(a) ao meu perfil!</h1>
+<h1 align="center">
+  🤖 Alan Ferreira | Conversational AI Engineer
+</h1>
 
 <p align="center">
-  💻 Desenvolvedor focado em tecnologia, automação e soluções com IA<br>
-  🤖 Interesse em Chatbots, NLP (PLN) e Inteligência Artificial<br>
-  📚 Sempre aprendendo novas ferramentas e evoluindo minhas habilidades
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Chatbot+Developer;Conversational+AI+Engineer;Automation+%26+Integrations;Building+Smart+Digital+Experiences" />
 </p>
 
-<hr>
+<p align="center">
+  🚀 Desenvolvedor especializado em automação, chatbots e inteligência artificial aplicada a negócios<br>
+  💬 Criação de fluxos inteligentes para WhatsApp, Web e APIs<br>
+  📊 Foco em conversão, retenção e escalabilidade digital
+</p>
 
-<h2 align="center">📊 Estatísticas GitHub</h2>
+---
 
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=ferrerolan&theme=tokyonight" />
-</div>
+## 🧠 Sobre mim
 
-<br>
+Sou desenvolvedor focado em **IA conversacional e automação de processos**, criando soluções que:
 
-<h2 align="center">🧰 Tecnologias e Ferramentas</h2>
+✔ Aumentam conversão de vendas  
+✔ Reduzem custo operacional  
+✔ Automatizam atendimento e jornadas digitais  
+✔ Integram sistemas via API (CRM, plataformas e bots)
 
-<div align="center">
-  <img alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
+💡 Experiência com projetos reais envolvendo:
+- Chatbots para atendimento e vendas
+- Integrações com APIs (estoque, frete, CRM)
+- Automação de fluxos e jornadas digitais
+- Análise de métricas (retenção, conversão)
 
-<br>
+---
 
-<h2 align="center">🌐 Conecte-se comigo</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
-<br>
+## ⚙️ Stack Principal
 
 <p align="center">
-  ✨ Obrigado por visitar meu perfil!
+  <img src="https://skillicons.dev/icons?i=python,js,php,laravel,mysql,nodejs,git,github" />
+</p>
+
+---
+
+## 🤖 Tecnologias de IA & Chatbots
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Chatbots-00F7FF?style=for-the-badge&logo=robot&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp"/>
+</p>
+
+---
+
+## 🔥 Projetos e Especialidades
+
+🚀 Desenvolvimento de Chatbots Inteligentes  
+📲 Automação para WhatsApp (vendas e atendimento)  
+🔗 Integrações com APIs e sistemas externos  
+🧠 IA aplicada a negócios digitais  
+⚡ Criação de fluxos conversacionais escaláveis  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferrerolan&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ferrerolan&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ferrerolan" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ Transformando atendimento em experiência inteligente com IA
 </p>
