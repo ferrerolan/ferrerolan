@@ -1,67 +1,59 @@
-<h1 align="center">🤖 Alan Ferreira</h1>
-<h3 align="center">Engenheiro de IA Conversacional | Chatbots, Automação & Agentes Inteligentes</h3>
+<h1 align="center">Alan Ferreira</h1>
+<h4 align="center">Engenharia de IA Conversacional — BLiP, Agentes & Automação</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=650&lines=Especialista+em+BLiP+e+agentes+conversacionais;Automação+de+atendimento+e+vendas;Integrações+via+API+(CRM%2C+ERP%2C+WhatsApp);Transformando+conversas+em+resultado" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8892B0&size=18&center=true&vCenter=true&width=600&lines=Fluxos+conversacionais+no+BLiP;Agentes+de+IA+aplicados+a+negócio;Integrações+e+automação+via+API" />
 </p>
 
----
+<br>
 
-### 👋 Um pouco sobre o que eu faço
+### Sobre
 
-Trabalho construindo agentes conversacionais que resolvem problema de verdade: atendimento mais rápido, vendas automatizadas e jornadas digitais que não parecem robóticas para quem está do outro lado da tela. Minha base é a **plataforma BLiP**, onde desenho fluxos, blocos de IA e integrações que colocam um chatbot pra trabalhar de forma inteligente — não só respondendo, mas entendendo contexto e tomando decisão.
+Desenvolvo agentes conversacionais com foco em atendimento e vendas, principalmente na plataforma **BLiP**, onde estruturo fluxos, blocos de IA e integrações que dão ao bot capacidade real de entender contexto e decidir — não apenas seguir um roteiro fixo.
 
-Na prática, isso significa:
+Meu trabalho passa por três frentes: desenho da conversa, aplicação de conceitos de NLU e agentes de IA para tornar a interação menos mecânica, e integração com os sistemas que sustentam o negócio por trás do bot (CRM, estoque, frete). O critério final é sempre o mesmo — a métrica de conversão e retenção conta mais do que a elegância do fluxograma.
 
-- 🧩 Modelagem de fluxos conversacionais no BLiP, do desenho da jornada até o ajuste fino de intents e entidades
-- 🔗 Integração de bots com CRM, sistemas de estoque, frete e outras APIs de negócio
-- 🤖 Aplicação de conceitos de agentes de IA (NLU, contexto, tomada de decisão) para deixar o atendimento menos "script" e mais conversa
-- 📈 Acompanhamento de métricas de conversão e retenção pra saber se o bot está realmente ajudando ou só ocupando espaço
+<br>
 
----
-
-### ⚙️ Stack
+### Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,php,laravel,mysql,nodejs,git,github" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filamentphp/filamentphp-original.svg" alt="Filament" />
 </p>
-
-### 🧠 IA, Agentes & Conversação
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BLiP-00C2CB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agentes%20de%20IA-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLU%20%2F%20NLP-FF6B00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp"/>
-  <img src="https://img.shields.io/badge/Automação-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Filament-F59E0B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BLiP-00C2CB?style=flat-square"/>
 </p>
 
----
+<br>
 
-### 🔥 O que venho construindo
+### Foco técnico
 
-- 🚀 Chatbots de atendimento e vendas com fluxos pensados pra reduzir fricção, não pra empurrar menu
-- 📲 Automações de WhatsApp que acompanham o cliente do primeiro contato até o pós-venda
-- 🔗 Integrações que fazem o bot "conversar" com o resto do sistema da empresa
-- ⚡ Fluxos escaláveis no BLiP, prontos pra crescer junto com o volume de conversas
+| Área | Aplicação |
+|---|---|
+| BLiP | Modelagem de fluxos, intents, entidades e blocos de IA |
+| Filament | Painéis administrativos e back-office sobre Laravel |
+| Agentes de IA | NLU, gestão de contexto, tomada de decisão em conversa |
+| Integrações | APIs de CRM, estoque, frete e outros sistemas de negócio |
+| WhatsApp | Automação de atendimento e jornadas de vendas ponta a ponta |
 
----
+<br>
 
-### 📊 GitHub
+### GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ferrerolan&show_icons=true&theme=tokyonight" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ferrerolan&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ferrerolan&show_icons=true&theme=tokyonight" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ferrerolan&theme=tokyonight" />
 </p>
 
----
-
-### 🌐 Vamos conversar?
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ferrerolan" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<p align="center"><i>Gosto de pensar em cada chatbot como uma conversa bem desenhada, não como um menu disfarçado.</i></p>
+<p align="center"><sub>Cada chatbot deveria parecer uma conversa bem desenhada — não um menu disfarçado.</sub></p>
