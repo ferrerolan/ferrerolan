@@ -1,12 +1,12 @@
 <h1 align="center">Alan Ferreira</h1>
-<h4 align="center">Desenvolvedor ChatBot, Agentes & Automação</h4>
+<h4 align="center">Engenharia de IA Conversacional — BLiP, Agentes & Automação</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=8892B0&size=18&center=true&vCenter=true&width=600&lines=Fluxos+conversacionais+no+BLiP;Agentes+de+IA+aplicados+a+negócio;Integrações+e+automação+via+API" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ferrerolan/ferrerolan/main/assets/chatbot-typing.svg" width="110" alt="digitando..." />
+  <img src="https://raw.githubusercontent.com/ferrerolan/ferrerolan/main/assets/chat-exchange.svg" width="240" alt="troca de mensagens: usuário, bot digitando, resposta" />
 </p>
 
 <br>
